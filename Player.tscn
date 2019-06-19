@@ -68,6 +68,6 @@ motion_scale = Vector2( 0.1, 0.1 )
 
 [node name="background" type="Sprite" parent="ParallaxBackground/ParallaxLayer"]
 position = Vector2( -288, -192 )
-scale = Vector2( 1.2, 1.5 )
+scale = Vector2( 2.8, 3.3 )
 texture = ExtResource( 11 )
 centered = false
